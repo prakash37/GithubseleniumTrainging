@@ -1,1 +1,1 @@
-# GithubseleniumTrainging
+# GithubseleniumTraining
